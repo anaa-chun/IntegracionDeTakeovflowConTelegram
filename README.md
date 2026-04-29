@@ -57,11 +57,11 @@ Scan básico, alertas solo HIGHT y CRITICAL
 
 
 ### Escaneo adjuntando reporte Markdown
-![Reporte Markdown](images/Ejecutar%20el%20scan%20adjuntando%20tambi├®n%20el%20reporte%20Markdown.png) <br>
+![Reporte Markdown](images/Ejecutar%20el%20scan%20adjuntando%20tambi%C3%A9n%20el%20reporte%20Markdown.png) <br>
 Lo mismo adjuntando el reporte Markdown en Telegram
 
 ### Escaneo adjuntando reporte Markdown + Telegram
-![Reporte Telegram](images/Ejecutar%20el%20scan%20adjuntando%20tambi├®n%20el%20reporte%20Markdown%20Telegram.png)<br>
+![Reporte Telegram](images/Ejecutar%20el%20scan%20adjuntando%20tambi%C3%A9n%20el%20reporte%20Markdown%20Telegram.png) <br>
 Reporte generado: [Reporte generado en formato md](/images/takeovflow_report_20260429_1053.md) <br><br>
 
 ### Automatización con cron (escaneo diario)
