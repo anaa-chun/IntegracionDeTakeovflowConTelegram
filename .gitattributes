@@ -1,0 +1,13 @@
+# Imágenes - tratar como binario
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+
+# Archivos de reporte
+*.md text
+*.json text
+
+# Evitar problemas con Windows (si alguien clona en Windows)
+* text=auto
